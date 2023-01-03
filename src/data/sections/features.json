@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Custom Product Development",
+    "content": "Your idea, our solution. Kodexo Labs is proficient in turning your visions into reality. Our proactive developers are always ready to provide the most comprehensive array of mobile app development services to our clients and dedicated to the best development venture under the most advanced technologies. With our 4+ years of experience, we ensure that you always get the latest product development ideas when it comes to building realities over your imagination."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Hybrid Mobile Applications Development",
+    "content": "Your enterprise application needs are not an easy task. Hybrid apps that work on all platforms, devices, and browsers are one of our expertise. With the experience of developing over 15+ apps, we are now specialized in working with a range of technologies such as frameworks, including flutter, react native, and programming languages, and are skilled at combining these to offer a solution to your exact business requirements."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "E-Commerce Website Development",
+    "content": "With an estimated 19% of global sales attributed to e-commerce, it's a field that only promises to grow. At Kodexo Labs, we believe that you can accomplish your goals with the right team on your side. Our highly-skilled team offers dedicated e-commerce website design with development solutions to help you grow your business and dreams. In the competitive world of e-commerce—no matter what size your business is. We understand that even the smallest businesses are capable of big things, and we want to help you get there."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-diskette",
+    "title": "Website Development",
+    "content": "Kodexo Labs' team of website development experts has helped countless businesses like yours realize their dream of success. Our dedicated web designs and development solutions have been proven time and time again to bring businesses the financial success they need to thrive. So if you've been thinking about scaling your business, don't hesitate!"
+  }
+]

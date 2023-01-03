@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "image1": "/img/homeimage1.webp",
+  "image2": "/img/homeimage2.webp",
+  "image3": "/img/homeimage3.webp",
+  "image4": "/img/homeimage5.webp",
+  "smallTitle": "About Us",
+  "title": { "first": "We are more than just", "second": "a digital agency." },
+  "content": "We are Vie. We create award-winning websites, remarkable brands and cutting-edge apps.Nullam imperdiet, sem at fringilla lobortis, sem nibh fringilla nibh, id gravida mi purus sit amet erat. Ut dictum nisi masvitp",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Perfect", "second": "" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Creative", "second": "" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "Proactive", "second": "" },
+      "wowDelay": ".8s"
+    }
+  ]
+}

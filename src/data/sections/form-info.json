@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "support@kodexolabs.com",
+  "phone": "+92 331 8955212",
+  "location": {
+    "first": "Minhaj Ghori Road, Nazimabad No.4 Block 4 ",
+    "second": "Karachi, Pakistan"
+  }
+}
